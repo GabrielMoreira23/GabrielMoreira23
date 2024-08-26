@@ -1,15 +1,28 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a Developer, from Curitiba-PR.</h2>
+<h2 align="left">Hi 👋! My name is Gabriel and I'm a Developer, from Brazil.</h2>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as trainee<br>- 📚 I'm currently learning Flutter / Python<br>- ⚡ In my free time I like creating games for Roblox<br>- ✨ Creating bugs since 2020<br>- 🎲 Fun fact: I have dark matter in BO3, BO4 and Cold War</p>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GabrielMoreira23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielMoreira23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp6cjNybW44cXVqNDJsbHZyaTA5NnQ3NGl5MGN2OHdlOTZtNTlvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xThuWu82QD3pj4wvEQ/giphy.webp"  />
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
