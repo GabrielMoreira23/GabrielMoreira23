@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a Developer, from Brazil.</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello!👋;My+name+is+Gabriel;I'm+from+Curitiba,+PR,+Brazil;I+study+Systems+Analysis+and+development;Be+Welcome!🗿)](https://git.io/typing-svg)
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
