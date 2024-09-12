@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as trainee<br>- 📚 I'm currently learning Flutter / Python<br>- ⚡ In my free time I like creating games for Roblox<br>- ✨ Creating bugs since 2023<br>- 🎲 Fun fact: I have dark matter in BO3, BO4 and Cold War</p>
+<h3 align="left">- 🔭 I’m working as trainee<br>- 📚 I'm currently learning Flutter / Python<br>- ⚡ In my free time I like creating games for Roblox<br>- ✨ Creating bugs since 2023<br>- 🎲 Fun fact: I have dark matter in BO3, BO4 and Cold War</p>
 
 ###
 
